@@ -1,5 +1,5 @@
 # Add lunch combos
-FDEVICE="cactus"
+FDEVICE="A5s"
 
 fox_get_target_device() {
 local chkdev=$(echo "$BASH_SOURCE" | grep $FDEVICE)
